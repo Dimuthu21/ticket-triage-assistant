@@ -1,0 +1,11 @@
+__pycache__/
+*.pyc
+.venv/
+.env
+data/raw/
+data/processed/
+.ipynb_checkpoints/
+models/
+chroma_db/
+.DS_Store
+PLAN.md
